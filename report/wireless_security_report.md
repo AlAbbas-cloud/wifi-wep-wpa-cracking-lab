@@ -54,3 +54,9 @@ The wireless lab was built using:
 
    ```bash
    ip a
+   ```
+5. Started the access point on **wlan0**
+6. Started the client on **wlan1**
+7. Prepared **wlan2** as the attacker interface
+
+This setup allowed a safe, isolated environment for wireless testing.
