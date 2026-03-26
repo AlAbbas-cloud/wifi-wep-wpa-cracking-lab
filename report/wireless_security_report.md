@@ -3,7 +3,6 @@
 This report documents a wireless security lab conducted using **Kali Linux**, **Wifite**, and a **WiFi‑Emulator** to demonstrate how attackers exploit weak Wi‑Fi configurations and how to defend against them.
 
 > “In this assignment, I will show how we used Kali Linux to test wireless security by cracking WEP and WPA passwords.”  
-> *(from original assignment document)*
 
 All testing was performed on **emulated Wi‑Fi networks only**, never on real devices.
 
@@ -30,7 +29,7 @@ Key weaknesses include:
 - WPS enabled  
 - Outdated WPA (instead of WPA2/WPA3)
 
-> “Weak passwords make WPA easier to crack.” *(from assignment document)*
+> “Weak passwords make WPA easier to crack.” 
 
 ---
 
