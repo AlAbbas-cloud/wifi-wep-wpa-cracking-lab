@@ -77,3 +77,66 @@ The WEP cracking process was performed using **Wifite:**
 8. The password was successfully cracked within minutes
 
 This demonstrated how outdated WEP encryption can be broken quickly with minimal effort.
+
+---
+
+## Results
+
+### WiFi Emulator
+A virtual AP and client were successfully created using wifi‑emulator, allowing safe wireless testing.
+
+### Wifite Cracking
+Wifite captured the handshake and cracked the WEP key rapidly, confirming the weakness of WEP encryption.
+
+Screenshots will be added soon.
+
+---
+
+## Recommendations
+To improve wireless security:
+
+- Use **WPA2** or **WPA3** instead of WEP/WPA
+- Set **strong, complex passwords**
+- Disable **WPS**
+- Update router firmware regularly
+- Monitor connected devices
+- Use firewalls and intrusion detection systems
+- Understand attacker techniques to improve defence
+- Only practice wireless testing in safe lab environments
+
+---
+
+## WLAN Security Checklist
+
+A detailed checklist is available in:
+
+ode
+checklists/wlan_security_checklist.md
+
+It includes:
+
+- Encryption requirements
+- Password complexity
+- Firmware updates
+- Device monitoring
+- WPS configuration
+
+---
+
+## Bibliography
+
+- Kali Linux Documentation (2023)
+- Wifite GitHub Repository (2023)
+- TryHackMe Wireless Security Labs (2023)
+- Wi‑Fi Alliance: WPA/WPA2/WPA3 Security (2023)
+- TAFE Cybersecurity Lab Notes (2025)
+
+---
+
+## ⚠️ Ethical Use
+
+This report is for **educational purposes only.**
+
+All testing was performed on **emulated networks.**
+
+Never attempt wireless attacks on real networks without explicit permission.
