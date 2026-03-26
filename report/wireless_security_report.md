@@ -110,8 +110,7 @@ To improve wireless security:
 
 A detailed checklist is available in:
 
-ode
-checklists/wlan_security_checklist.md
+➡️ [WLAN Security Checklist](../checklists/wlan_security_checklist.md)
 
 It includes:
 
