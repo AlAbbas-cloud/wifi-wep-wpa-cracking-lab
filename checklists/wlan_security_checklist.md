@@ -1,11 +1,11 @@
-# ✔ WLAN Security Checklist
+# WLAN Security Checklist
 
 This checklist summarises the key wireless security controls used to protect Wi‑Fi networks from common attacks.  
 It is based on the findings from my wireless security lab, where I tested WEP and WPA vulnerabilities using Kali Linux, Wifite, and a WiFi‑Emulator.
 
 ---
 
-## 🔐 Encryption & Authentication
+## Encryption & Authentication
 
 | Security Requirement | Expected Improvement | Comments |
 |----------------------|----------------------|----------|
@@ -15,7 +15,7 @@ It is based on the findings from my wireless security lab, where I tested WEP an
 
 ---
 
-## 🛠 Network Configuration
+## Network Configuration
 
 | Security Requirement | Expected Improvement | Comments |
 |----------------------|----------------------|----------|
@@ -25,7 +25,7 @@ It is based on the findings from my wireless security lab, where I tested WEP an
 
 ---
 
-## 🔍 Monitoring & Detection
+## Monitoring & Detection
 
 | Security Requirement | Expected Improvement | Comments |
 |----------------------|----------------------|----------|
@@ -35,7 +35,7 @@ It is based on the findings from my wireless security lab, where I tested WEP an
 
 ---
 
-## 📡 Physical & Environmental Security
+## Physical & Environmental Security
 
 | Security Requirement | Expected Improvement | Comments |
 |----------------------|----------------------|----------|
