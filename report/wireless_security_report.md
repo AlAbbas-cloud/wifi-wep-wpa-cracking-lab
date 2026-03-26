@@ -55,8 +55,25 @@ The wireless lab was built using:
    ```bash
    ip a
    ```
-5. Started the access point on **wlan0**
-6. Started the client on **wlan1**
-7. Prepared **wlan2** as the attacker interface
+5. Started the access point on `wlan0`
+6. Started the client on `wlan1`
+7. Prepared `wlan2` as the attacker interface
 
 This setup allowed a safe, isolated environment for wireless testing.
+
+---
+
+## Method Used to Crack WEP
+
+The WEP cracking process was performed using **Wifite:**
+
+1. Launched Wifite in Kali Linux
+2. Selected `wlan2` as the monitoring interface
+3. Scanned for available networks
+4. Identified the target ESSID
+5. Performed a **deauthentication attack** to force reconnection
+6. Captured the authentication handshake
+7. Wifite automatically attempted to crack the WEP key
+8. The password was successfully cracked within minutes
+
+This demonstrated how outdated WEP encryption can be broken quickly with minimal effort.
