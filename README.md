@@ -10,15 +10,18 @@ All testing was performed on **emulated Wi‑Fi networks only**, never on real d
 
 ## Project Overview
 
-This lab demonstrates:
+This project demonstrates how wireless networks can be safely tested in a controlled lab environment using **Kali Linux**, **Wifite**, and a **WiFi‑Emulator**.  
+The goal is to understand how attackers exploit weak Wi‑Fi configurations — and how defenders can harden networks against these threats.
 
-- Cracking **WEP** using Wifite  
-- Capturing and attacking **WPA handshakes**  
-- Using **wifi‑emulator** to create virtual APs and clients  
-- Understanding wireless encryption weaknesses  
-- Applying defensive best practices for WLAN security  
+The lab covers:
 
-This project forms part of my cybersecurity learning pathway and supports my SOC and network security development.
+- Cracking **WEP** using automated packet capture and IV analysis  
+- Capturing and analysing **WPA handshakes**  
+- Using **wifi‑emulator** to create virtual access points and clients  
+- Performing deauthentication attacks to trigger reconnection events  
+- Documenting findings, results, and defensive recommendations  
+
+This project forms part of my practical cybersecurity learning pathway, supporting my development in **SOC analysis**, **network security**, and **hands‑on offensive/defensive techniques**.
 
 ---
 
