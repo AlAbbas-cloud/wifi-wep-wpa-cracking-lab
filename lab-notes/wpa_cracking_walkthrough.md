@@ -7,7 +7,7 @@ All testing was performed on **virtual Wi‑Fi networks only**.
 
 ---
 
-## 🧪 Lab Setup
+## Lab Setup
 
 The environment was created using **wifi‑emulator**, which generated:
 
