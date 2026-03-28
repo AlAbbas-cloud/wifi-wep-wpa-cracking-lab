@@ -79,7 +79,9 @@ In this lab, the WEP password was cracked in under **5 minutes.**
 
 This demonstrates why WEP is considered **completely insecure.**
 
-### Summary of the Attack Flow
+---
+
+## Summary of the Attack Flow
 1. Start Wifite
 2. Select wlan2 as monitor interface
 3. Scan for networks
@@ -90,18 +92,20 @@ This demonstrates why WEP is considered **completely insecure.**
 
 All steps were performed in a **controlled, emulated environment.**
 
-🛡️ Key Takeaways
-WEP can be cracked quickly with minimal effort
+---
 
-Deauthentication attacks are simple and effective
+## Key Takeaways
+- WEP can be cracked quickly with minimal effort
+- Deauthentication attacks are simple and effective
+- Packet capture is automated by modern tools
+- WEP should never be used on any real network
+- WPA2/WPA3 are required for secure wireless communication
 
-Packet capture is automated by modern tools
+---
 
-WEP should never be used on any real network
+## Ethical Notice
+This walkthrough is for **educational purposes only.**
 
-WPA2/WPA3 are required for secure wireless communication
+All testing was performed on **emulated Wi‑Fi networks** created specifically for this lab.
 
-⚠️ Ethical Notice
-This walkthrough is for educational purposes only.
-All testing was performed on emulated Wi‑Fi networks created specifically for this lab.
 Never attempt wireless attacks on real networks without explicit permission.
