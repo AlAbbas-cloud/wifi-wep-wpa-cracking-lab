@@ -1,4 +1,4 @@
-# Wireless Security Lab — WEP & WPA Cracking (Kali Linux)
+# Wireless Security Lab - WEP & WPA Cracking (Kali Linux)
 
 This repository documents a controlled wireless security lab where I used **Kali Linux**, **Wifite**, and a **WiFi‑Emulator** to demonstrate how attackers exploit weak Wi‑Fi configurations — and how to defend against them.
 
