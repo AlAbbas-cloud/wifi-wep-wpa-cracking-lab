@@ -47,17 +47,17 @@ This project forms part of my cybersecurity learning pathway and supports my SOC
 
 This project is organised into clear folders so each part of the wireless security lab is easy to navigate.
 
-[`report/`](report) 
-[`wireless_security_report.md`](report/wireless_security_report.md)
-[`lab-notes/`](lab-notes)
-└── [`wep_cracking_walkthrough.md`](lab-notes/wep_cracking_walkthrough.md)
-└── [`wpa_cracking_walkthrough.md`](lab-notes/wpa_cracking_walkthrough.md) 
-| [`checklists/`](checklists) 
-| └── [`wlan_security_checklist.md`](checklists/wlan_security_checklist.md) 
-| [`images/`](images) 
-| └── `Emulator.png` 
-| └── `Wifite Cracking.png` 
-| [`README.md`](README.md) 
+- [`report/`](report)
+- [`wireless_security_report.md`](report/wireless_security_report.md)
+- [`lab-notes/`](lab-notes)
+- [`wep_cracking_walkthrough.md`](lab-notes/wep_cracking_walkthrough.md)
+- [`wpa_cracking_walkthrough.md`](lab-notes/wpa_cracking_walkthrough.md)
+- [`checklists/`](checklists)
+- [`wlan_security_checklist.md`](checklists/wlan_security_checklist.md)
+- [`images/`](images)
+- `Emulator.png`
+- └── `Wifite Cracking.png`
+- [`README.md`](README.md) 
 
 
 
