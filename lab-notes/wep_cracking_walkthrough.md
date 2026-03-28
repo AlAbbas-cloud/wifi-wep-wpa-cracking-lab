@@ -103,7 +103,7 @@ All steps were performed in a **controlled, emulated environment.**
 
 ---
 
-## Ethical Notice
+## ⚠️ Ethical Notice
 This walkthrough is for **educational purposes only.**
 
 All testing was performed on **emulated Wi‑Fi networks** created specifically for this lab.
