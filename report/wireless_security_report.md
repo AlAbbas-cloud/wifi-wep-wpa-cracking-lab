@@ -84,10 +84,12 @@ This demonstrated how outdated WEP encryption can be broken quickly with minimal
 ### WiFi Emulator
 A virtual AP and client were successfully created using wifi‑emulator, allowing safe wireless testing.
 
+![Emulator](https://raw.githubusercontent.com/AlAbbas-cloud/wifi-wep-wpa-cracking-lab/refs/heads/main/images/Emulator.png)
+
 ### Wifite Cracking
 Wifite captured the handshake and cracked the WEP key rapidly, confirming the weakness of WEP encryption.
 
-Screenshots will be added soon.
+![Cracking](https://raw.githubusercontent.com/AlAbbas-cloud/wifi-wep-wpa-cracking-lab/refs/heads/main/images/Wifite%20Cracking.png)
 
 ---
 
