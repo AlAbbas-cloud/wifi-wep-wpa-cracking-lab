@@ -26,66 +26,62 @@ ip a
 
 ---
 
-📡 Step 1 — Start Wifite
+### Step 1 - Start Wifite
 Launch Wifite:
 
-bash
+```bash
 wifite
+```
 Wifite automatically detects wireless interfaces and begins scanning.
 
-🎯 Step 2 — Select the Monitoring Interface
+### Step 2 - Select the Monitoring Interface
 Choose:
 
-Code
+```Code
 wlan2
+```
 This interface is used to:
 
-Capture packets
+- Capture packets
+- Monitor traffic
+- Perform deauthentication attacks
 
-Monitor traffic
-
-Perform deauthentication attacks
-
-📶 Step 3 — Identify the WPA Network
+### Step 3 - Identify the WPA Network
 During scanning:
 
-Look for the WPA/WPA2 network created by wifi‑emulator
-
-Confirm the correct ESSID
-
-Select it when prompted
+- Look for the WPA/WPA2 network created by wifi‑emulator
+- Confirm the correct ESSID
+- Select it when prompted
 
 Wifite will prepare to capture the WPA handshake.
 
-🔥 Step 4 — Perform a Deauthentication Attack
+### Step 4 - Perform a Deauthentication Attack
 Wifite automatically sends deauth packets to the client.
 
 Why this works:
 
-WPA uses a 4‑way handshake when a device reconnects
-
-Forcing a disconnect triggers a new handshake
-
-Capturing this handshake is required for cracking attempts
+- WPA uses a 4‑way handshake when a device reconnects
+- Forcing a disconnect triggers a new handshake
+- Capturing this handshake is required for cracking attempts
 
 This step is automated by Wifite.
 
-📥 Step 5 — Capture the WPA Handshake
+### Step 5 - Capture the WPA Handshake
 As soon as the client reconnects, Wifite listens for:
 
-EAPOL frames
-
-The 4‑way handshake
-
-Authentication traffic
+- EAPOL frames
+- The 4‑way handshake
+- Authentication traffic
 
 Once captured, Wifite saves the handshake file for cracking.
 
 You will see a message similar to:
 
-Code
+```Code
 [+] WPA Handshake Captured!
-🔓 Step 6 — Attempt to Crack the WPA Password
+```
+
+### Step 6 - Attempt to Crack the WPA Password
 Unlike WEP, WPA cannot be cracked instantly.
 
 WPA cracking depends entirely on:
