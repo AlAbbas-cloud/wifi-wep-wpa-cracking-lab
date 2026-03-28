@@ -97,6 +97,12 @@ If the password is strong, cracking may fail - which is expected.
 
 This demonstrates why WPA security relies heavily on **password complexity.**
 
+### WPA Handshake Capture & Cracking Output
+
+Below is the terminal output showing the captured handshake and successful cracking attempt.
+
+![WPA Cracking Output](https://raw.githubusercontent.com/AlAbbas-cloud/wifi-wep-wpa-cracking-lab/refs/heads/main/images/Wifite%20Cracking.png)
+
 ---
 
 ### Summary of the WPA Attack Flow
