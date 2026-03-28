@@ -42,7 +42,7 @@ This project forms part of my practical cybersecurity learning pathway, supporti
 - How deauthentication attacks work  
 - How password strength affects WPA cracking  
 - How to harden wireless networks against common threats  
-- How attackers think — and how defenders can respond  
+- How attackers think - and how defenders can respond  
 
 ---
 
