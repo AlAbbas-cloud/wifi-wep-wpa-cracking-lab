@@ -1,4 +1,4 @@
-# 🔓 WEP Cracking Walkthrough (Kali Linux + Wifite)
+# WEP Cracking Walkthrough (Kali Linux + Wifite)
 
 This walkthrough documents the exact steps used to crack a WEP‑protected wireless network in a **safe, emulated lab environment** using Kali Linux, Wifite, and wifi‑emulator.  
 The purpose of this exercise is to understand how attackers exploit outdated encryption — and why WEP must never be used on real networks.
