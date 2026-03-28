@@ -44,7 +44,7 @@ It is based on the findings from my wireless security lab, where I tested WEP an
 
 ---
 
-## 🧭 Summary
+## Summary
 
 This checklist can be used when configuring home or small‑office Wi‑Fi networks, or during wireless security assessments.  
 It reinforces the importance of strong encryption, secure configuration, and continuous monitoring to defend against common wireless attacks.
